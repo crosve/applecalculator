@@ -1,0 +1,1 @@
+My attmept to make the apple calculator app. Only includes basic math arithmetic as seen when first opening the apple calculator app. Made this project to help me better understand how to format multiple inputs side by side. 
